@@ -13,7 +13,7 @@
   <br />
 
   <!-- Social Button Links -->
-  <a href="https://www.linkedin.com/in/kelvin-arnold-manalad-825b42392/" target="_blank">
+  <a href="https://www.linkedin.com/in/kelvin-arnold-manalad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://ph.jobstreet.com/profiles/kelvin-manalad-nWp2zG8WL7" target="_blank">
