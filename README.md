@@ -31,8 +31,8 @@
 I am a Software and Hardware Developer focused on building smart, scalable systems. I blend full-stack software engineering with microcontroller hardware design to create impactful applications—from clean, intuitive mobile interfaces to the logic and data layers that power real-time IoT networks.
 
 *   **Currently working on:** BawatPieza — An IoT-driven hybrid piezoelectric-dynamo kinetic pathway that converts campus foot traffic into usable electrical power at the University of Caloocan City.
-*   **Professional Experience:** IT Operations at Concentrix Ayala Technohub[cite: 14] and Freelance Full-Stack Developer at Ark Industry Inc., where I engineered a comprehensive HRIS and automated payroll module[cite: 14].
-*   **Projects:** Engineered GridWatch (IoT smart energy management using ESP32 and React Native)[cite: 14] and developed the BAJHS digital end-to-end enrollment portal with Role-Based Access Control[cite: 14].
+*   **Professional Experience:** IT Operations at Concentrix Ayala Technohub and Freelance Full-Stack Developer at Ark Industry Inc., where I engineered a comprehensive HRIS and automated payroll module.
+*   **Projects:** Engineered GridWatch (IoT smart energy management using ESP32 and React Native) and developed the BAJHS digital end-to-end enrollment portal with Role-Based Access Control.
 *   **Exploring:** Predictive energy analytics, dual-harvesting power conditioning circuits, and role-based mobile telemetry dashboards.
 
 ---
@@ -65,9 +65,3 @@ I am a Software and Hardware Developer focused on building smart, scalable syste
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvins546&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvins546&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
