@@ -31,7 +31,8 @@
 I am a Software and Hardware Developer focused on building smart, scalable systems. I blend full-stack software engineering with microcontroller hardware design to create impactful applications—from clean, intuitive mobile interfaces to the logic and data layers that power real-time IoT networks.
 
 *   **Currently working on:** BawatPieza — An IoT-driven hybrid piezoelectric-dynamo kinetic pathway that converts campus foot traffic into usable electrical power at the University of Caloocan City.
-*   **Previous Experience:** Engineered GridWatch (Smart energy monitoring), FallGuard (Automated fall detection), A.T.L.A.S (Automated electrical control), and developed a comprehensive HRIS and Payroll system for Ark Industry Inc.
+*   **Professional Experience:** IT Operations at Concentrix Ayala Technohub[cite: 14] and Freelance Full-Stack Developer at Ark Industry Inc., where I engineered a comprehensive HRIS and automated payroll module[cite: 14].
+*   **Projects:** Engineered GridWatch (IoT smart energy management using ESP32 and React Native)[cite: 14] and developed the BAJHS digital end-to-end enrollment portal with Role-Based Access Control[cite: 14].
 *   **Exploring:** Predictive energy analytics, dual-harvesting power conditioning circuits, and role-based mobile telemetry dashboards.
 
 ---
