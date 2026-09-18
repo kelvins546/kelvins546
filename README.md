@@ -5,9 +5,9 @@
   <br />
   <br />
 
-  <a href="YOUR_LINKEDIN_URL" target="_blank">LinkedIn</a> • 
-  <a href="YOUR_JOBSTREET_URL" target="_blank">JobStreet</a> • 
-  <a href="mailto:your.email@example.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/kelvin-arnold-manalad-825b42392/" target="_blank">LinkedIn</a> • 
+  <a href="https://ph.jobstreet.com/profiles/kelvin-manalad-nWp2zG8WL7" target="_blank">JobStreet</a> • 
+  <a href="mailto:manalad.kelvinarnold.escranda@gmail.com">Email</a> • 
   <a href="YOUR_PORTFOLIO_URL" target="_blank">Portfolio</a>
 
   <br />
